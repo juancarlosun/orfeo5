@@ -29,7 +29,7 @@
         |                       MAIN                               |
         +---------------------------------------------------------*/
 
-
+include_once("config.php");
 error_reporting(0);
 session_start();
 $ruta_raiz = ".";
